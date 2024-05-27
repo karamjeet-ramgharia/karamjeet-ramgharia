@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Karamjeet Singh 👋
 
-<!--
-**karamjeet-ramgharia/karamjeet-ramgharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a final-year undergraduate at the Indian Institute of Technology Kanpur, specializing in Materials Science and Technology. I have a keen interest in finance and data analysis.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Quantitative Analyst Intern**: Currently at GoalFi, focusing on market analysis and portfolio optimization.
+- 🎓 **Education**: B.Tech in Materials Science and Technology from IIT Kanpur.
+- 📈 **Interests**: Algorithmic trading, financial modeling, data analysis, and portfolio management.
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/karamjeetramgharia)
+- [Email](mailto:karamjeets20@iitk.ac.in)
+
+## Technical Skills
+
+- **Programming Languages**: C, C++, SQL, MATLAB, HTML, CSS, Python
+- **Software and Utilities**: Origin, Git, MS Excel, PowerBI, Numpy, Pandas, Matplotlib, LATEX
+
