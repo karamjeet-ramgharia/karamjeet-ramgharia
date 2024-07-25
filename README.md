@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a final-year undergraduate at the Indian Insti
 
 ## About Me
 
-- 📊 **Quantitative Analyst Intern**: Currently at GoalFi, focusing on market analysis and portfolio optimization.
+- 📊 **Quantitative Analyst**: Currently at GoalFi, focusing on market analysis and portfolio optimization.
 - 🎓 **Education**: B.Tech in Materials Science and Technology from IIT Kanpur.
 - 📈 **Interests**: Algorithmic trading, financial modeling, data analysis, and portfolio management.
 
