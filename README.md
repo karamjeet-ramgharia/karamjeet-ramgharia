@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a final-year undergraduate at the Indian Insti
 
 ## Technical Skills
 
-- **Programming Languages**: C, C++, SQL, MATLAB, HTML, CSS, Python
-- **Software and Utilities**: Origin, Git, MS Excel, PowerBI, Numpy, Pandas, Matplotlib, LATEX
+- **Programming Languages**: C, C++, SQL, MATLAB, Python
+- **Softwares**: Visual Studio Code, MongoDB Compass, Arduno IDE, Origin, Git, TradingView, PowerBI
+- **Utilities**: pandas, pymongo, selenium, vectorbt, kiteconnect, reportlab and many more....
 
